@@ -1,2 +1,2 @@
 #!/bin/bash
-find /root -type d -exec chmod 755 {} \
+find /root -type d -exec chmod a+x {} \
